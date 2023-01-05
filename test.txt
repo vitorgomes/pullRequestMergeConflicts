@@ -1,1 +1,2 @@
 Generating some conflict!
+Another test message!
